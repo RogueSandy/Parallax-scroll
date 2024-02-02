@@ -8,9 +8,9 @@ This website is all about the parallax scroll, where the images move in differen
 
 # Things Used
 
-React.js : for building user interfaces
-Framer Motion : to animate on scroll
-Lenis Scroll : to add smooth scroll behavioura
+- React.js : for building user interfaces
+- Framer Motion : to animate on scroll
+- Lenis Scroll : to add smooth scroll behavioura
 
 # If you wanna run this to your local computer
 
