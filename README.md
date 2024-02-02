@@ -14,6 +14,6 @@ Lenis Scroll : to add smooth scroll behavioura
 
 # If you wanna run this to your local computer
 
-clone the repo to your personal computer
-run `npm install` to install all the required dependencies
-run `npm run dev` to run the program locally note- make sure to have node install.
+- clone the repo to your personal computer
+- run `npm install` to install all the required dependencies
+- run `npm run dev` to run the program locally note- make sure to have node install.
