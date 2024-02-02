@@ -1,8 +1,19 @@
-# React + Vite
+# Parallax Scroll
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A parallax scroll website created by Vite+React App
 
-Currently, two official plugins are available:
+# About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This website is all about the parallax scroll, where the images move in different speed from different direction on scroll. Just created this one cause I saw a little simialr kind of thing in one of the Awwwards website, so I decided to recreate it, and here I am.
+
+# Things Used
+
+React.js : for building user interfaces
+Framer Motion : to animate on scroll
+Lenis Scroll : to add smooth scroll behavioura
+
+# If you wanna run this to your local computer
+
+clone the repo to your personal computer
+run `npm install` to install all the required dependencies
+run `npm run dev` to run the program locally note- make sure to have node install.
